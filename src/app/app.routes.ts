@@ -43,7 +43,7 @@ export const routes: Routes = [
     component: CountryDirComponent,
   },
   {
-    path: 'country/south-korea',
+    path: 'country/korea',
     component: KoreaComponent,
   },
   {

@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { RouterModule } from '@angular/router';
 
+const countries =[]
+
 @Component({
   selector: 'app-country-dir',
   standalone: true,
@@ -8,6 +10,7 @@ import { RouterModule } from '@angular/router';
   templateUrl: './country-dir.component.html',
   styleUrl: './country-dir.component.css'
 })
+
 export class CountryDirComponent {
 
 }
