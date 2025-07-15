@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+p {
+  font-family: Lato;
+}
+
+.list-group {
+  width: fit-content !important;
+  margin: 0 10%;
+}
