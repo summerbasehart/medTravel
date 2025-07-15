@@ -1,0 +1,17 @@
+{
+  "routes": [
+    "/",
+    "/admin-information",
+    "/contact",
+    "/country-directory",
+    "/country/canada",
+    "/country/mexico",
+    "/country/portugal",
+    "/country/south-korea",
+    "/country/spain",
+    "/country/turkey",
+    "/international-insurance",
+    "/international-prescriptions",
+    "/passport"
+  ]
+}
